@@ -1,4 +1,5 @@
 ﻿using System;
+using BerlinClock.Classes;
 using TechTalk.SpecFlow;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Linq;
